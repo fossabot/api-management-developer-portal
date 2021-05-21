@@ -69,7 +69,7 @@
         "@paperbits/prosemirror": "0.1.413",
         "@paperbits/styles": "0.1.413",
         "@webcomponents/custom-elements": "1.4.2",
-        "@webcomponents/shadydom": "^1.7.4",
+        "@webcomponents/shadydom": "^1.8.0",
         "adal-vanilla": "^1.0.18",
         "applicationinsights-js": "^1.0.21",
         "client-oauth2": "4.3.3",
