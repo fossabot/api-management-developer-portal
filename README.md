@@ -3,6 +3,7 @@
 This repository is managed by the [Microsoft Azure API Management](https://aka.ms/apimrocks) team and contains the source code of the developer portal. Refer to the [official Azure documentation](https://aka.ms/apimdocs/portal) for more information and instructions. 
 
 ![API Management developer portal](readme/portal.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchaos-ui%2Fapi-management-developer-portal.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchaos-ui%2Fapi-management-developer-portal?ref=badge_shield)
 
 ## <a name="releases"></a> Releases
 
@@ -19,3 +20,6 @@ We welcome and appreciate [community contributions](CONTRIBUTIONS.md). Refer to 
 ## <a name="license"></a> License
 
 The developer portal is published under the [MIT license](license).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchaos-ui%2Fapi-management-developer-portal.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchaos-ui%2Fapi-management-developer-portal?ref=badge_large)
