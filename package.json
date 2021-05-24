@@ -64,7 +64,7 @@
         "@paperbits/azure": "0.1.414",
         "@paperbits/common": "0.1.413",
         "@paperbits/core": "0.1.414",
-        "@paperbits/prosemirror": "0.1.413",
+        "@paperbits/prosemirror": "0.1.414",
         "@paperbits/styles": "0.1.413",
         "@webcomponents/custom-elements": "1.4.3",
         "@webcomponents/shadydom": "^1.7.4",
